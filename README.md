@@ -1,5 +1,5 @@
 # Sudoku
 A C++ Sudoku solver using depth first recursive search.
 
-## Running the code
-Clone the repository and execute the makefile.
+## Getting started
+Clone the repository and compile the code using the makefile. Run the executable.
