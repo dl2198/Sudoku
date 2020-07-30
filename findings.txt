@@ -1,0 +1,22 @@
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+A5: FINDINGS ON MYSTERY SUDOKU BOARDS
+------------------------------------------------------------------------
+I used two criteria to rank the mystery boards in order of difficulty:
+
+  -The number of steps the program takes to solve the board;
+  
+  -The time in milliseconds the program takes to solve the board
+   (importing the library chrono).
+------------------------------------------------------------------------
+I found that:
+
+  -Mystery1 is the harder board, with 295 steps and 38 milliseconds
+  (on average) to reach a solution;
+  
+  -Mystery2 is impossible to solve;
+  
+  -Mystery3 is the easier board, with 270 steps and 13 milliseconds
+  (on average) to reach a solution.
+------------------------------------------------------------------------
+------------------------------------------------------------------------
